@@ -5,6 +5,7 @@ MRI compatible miniaturized fluorescence microscope
 
 # Description:
 Open_mrscope includes all the 3D models and protocols to build your own MRI compatible fluorescence microscope combined (functional) MRI and calcium imaging. The open_mrscope is an open-source project published at Ubaghs et al., "Simultaneous single-cell calcium imaging of neuronal population activity and brain-wide BOLD fMRI." bioRxiv(2023): 2023-11 (_https://www.biorxiv.org/content/10.1101/2023.11.14.566368v1_).
+
 Using this repository, everyone can build and evaluate their own MRI compatible microscope to not only record brain-wide functional neurovascular activity, but also calcium activity at the single-cell level. Please also see related repositories for more tools to perform MRI compatible combined recordings (MR compatible, water cooled, translational stage: https://github.com/rlemubaghs/open_mr_translation_stage; MR compatible mouse cradle for combined recordings: _https://github.com/rlemubaghs/open_mr_cradle_mouse_)! 
 
 # Contents
