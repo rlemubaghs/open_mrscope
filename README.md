@@ -1,5 +1,4 @@
 ![alt text](https://github.com/rlemubaghs/open_mrscope/blob/main/documentation/images/cradle_overview.png?raw=true)
-
 # Project:
 MRI compatible miniaturized fluorescence microscope
 
